@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔥I love frontend because it allows me to bring my ideas to life.<br>🎨Every project is an opportunity for me to create something unique.<br>🤝 I believe that the best decisions are born in communication.<br>
+🔥I love frontend because it allows me to bring my ideas to life.<br>
+🎨Every project is an opportunity for me to create something unique.<br>
+🤝I believe that the best decisions are born in communication.<br>
+🎓**I'm a 3rd-year student at Saint Petersburg State University of Telecommunications named after Prof. M. A. Bonch-Bruevich.**<br>
+📚 **Studying at the Faculty of Information Systems and Software Engineering in the "Information Systems and Technologies" program.** 
 
 
 ## 🌐 Socials:
