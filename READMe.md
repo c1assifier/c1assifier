@@ -4,7 +4,7 @@
 Faculty of Information Systems and Software Engineering,
 **"Information Systems and Technologies"** program.
 
-💻 Frontend Developer with 2+ years of experience building internal platforms and admin systems using **React** and **Next.js**.
+💻 Frontend Developer with 1+ years of experience building internal platforms and admin systems using **React** and **Next.js**.
 Focused on performance, clean architecture, and production-ready UI/UX.
 
 ---
